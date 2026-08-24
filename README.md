@@ -155,26 +155,6 @@ Beyond cost, this setup has meaningful technical advantages over a comparable cl
 
 ---
 
-### Remote Access Architecture
-
-```
-Any device — any network
-        |
-        v
-   Tailscale VPN
- (encrypted tunnel)
-        |
-        v
-  Debian 13 Server
-        |
-   -----+------
-   |           |
-  SSH        Samba
-(terminal)  (storage)
-```
-
----
-
 ### Build Phases
 
 | Phase | Description | Status |
