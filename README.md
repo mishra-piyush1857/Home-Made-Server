@@ -69,7 +69,7 @@ Beyond cost, this setup has meaningful technical advantages over a comparable cl
 ![Windows Drive](screenshots/windows-drive.png)
 
 ### Storage on Android
-![Android Files](screenshots/android-files.png)
+![Android Files](screenshots/android-files.jpg)
 
 ### Tailscale Connected Devices
 ![Tailscale Devices](screenshots/tailscale-devices.png)
