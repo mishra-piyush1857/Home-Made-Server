@@ -59,12 +59,20 @@ Beyond cost, this setup has meaningful technical advantages over a comparable cl
 
 ## Screenshots
 
-> Add the following screenshots here:
-> 1. Portainer dashboard — containers, CPU and RAM usage visible
-> 2. Windows File Explorer — S: drive mapped as a permanent network drive
-> 3. Samsung Files — HomeShare folder accessible from Android
-> 4. Terminal — `ssh homeserver` connecting successfully from Windows
-> 5. Tailscale admin panel — all connected devices visible
+### Portainer Dashboard
+![Portainer Dashboard](screenshots/portainer.png)
+
+### SSH Remote Access
+![SSH Login](screenshots/ssh-login.png)
+
+### Network Drive on Windows
+![Windows Drive](screenshots/windows-drive.png)
+
+### Storage on Android
+![Android Files](screenshots/android-files.png)
+
+### Tailscale Connected Devices
+![Tailscale Devices](screenshots/tailscale-devices.png)
 
 ---
 
